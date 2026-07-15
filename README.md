@@ -12,6 +12,15 @@ This project focuses on transforming raw insurance data into actionable business
 
 https://youtu.be/sAHgnjTi6uQ
 
+---
+
+# 🔗 Live Dashboard
+
+View the report here:
+
+https://app.powerbi.com/view?r=eyJrIjoiN2JmODljYjEtNDRkZC00M2Y0LTk2ZWMtYTE0OGUwNjk1ZDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+---
 
 ## 📌 Project Overview
 
@@ -322,15 +331,6 @@ Planned improvements:
 - Interactive Navigation
 - Custom Report Themes
 
----
-
-# 🔗 Live Dashboard
-
-View the report here:
-
-https://app.powerbi.com/view?r=eyJrIjoiN2JmODljYjEtNDRkZC00M2Y0LTk2ZWMtYTE0OGUwNjk1ZDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
----
 
 # 👩‍💻 Author
 
