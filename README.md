@@ -6,6 +6,13 @@ This project focuses on transforming raw insurance data into actionable business
 
 ---
 
+# 🎥 Detailed Presentation
+
+🔗 In the below presentaion, I have translated all the key insights from dashboard to actionable business decisions:
+
+https://youtu.be/sAHgnjTi6uQ
+
+
 ## 📌 Project Overview
 
 The objective of this project was to create a business-friendly reporting solution that enables stakeholders to:
@@ -197,10 +204,6 @@ The homepage acts as a navigation hub and executive summary.
 
 ✅ High-level business insights
 
-### Snapshot
-
-*(Add Homepage Screenshot Here)*
-
 ---
 
 # 📈 Overview Page
@@ -225,10 +228,6 @@ The Overview page answers the fundamental business questions.
 - Revenue & Customer Split by Age Group
 - Customer Segmentation Table
 
-### Snapshot
-
-*(Add Overview Screenshot Here)*
-
 ---
 
 # 📡 Sales Mode Analysis
@@ -251,10 +250,6 @@ This page focuses on channel effectiveness and customer acquisition.
 - Sales Mode Ranking by Day Type
 - Dynamic Insight Panel
 
-### Snapshot
-
-*(Add Sales Mode Analysis Screenshot Here)*
-
 ---
 
 # 👥 Age Group Analysis
@@ -275,10 +270,6 @@ This page explores customer behavior across age segments.
 - Trend Chart by Age Group
 - Policy Preference Heatmap
 - Customer Count by Age Group
-
-### Snapshot
-
-*(Add Age Group Analysis Screenshot Here)*
 
 ---
 
@@ -318,18 +309,6 @@ Planned improvements:
 - Advanced tooltip pages
 - Automated insights generation
 - Drill-through analysis pages
-
----
-
-# 🎥 Dashboard Walkthrough
-
-A detailed dashboard walkthrough video will be added soon.
-
-**Coming Soon**
-
-```
-[Dashboard Walkthrough Video Link]
-```
 
 ---
 
